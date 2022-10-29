@@ -1,0 +1,14 @@
+{
+    "test1": {
+        "length": 10,
+        "width": 5,
+        "depth": 3,
+        "packages": ["6"]
+    },
+    "test2": {
+        "length": 10,
+        "width": 5,
+        "depth": 3,
+        "packages": []
+    }
+}

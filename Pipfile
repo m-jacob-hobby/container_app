@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+marshmallow = "*"
+flasgger = "*"
+flask-restful = "*"
+flask-cors = "*"
+webargs = "*"
+httpie = "*"
+python-dotenv = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
